@@ -1,0 +1,29 @@
+The Ozone R10.2, one year on
+============================
+
+As a follow-up to my 20-hour review, here's some further information on the R10.2 based on a year of flying it. With the release of the R11, a lot of R10.2s are available on the second hand market, and a few people have asked me via PM about my impressions of the wing. 
+
+In the first review I criticised the limited emergency descent options, an occasional unwillingness to turn in thermals, and the time taken to pack it. I also said that I need to eat more pies, learn to use the trimmers properly, and get the hang of B-riser flying. Over the last twelve months I've flown the R10.2 in a wide variety of conditions and competitions, from weak overcast days to booming Alpine spring XC. 
+
+So, what can I add? 
+
+Launching requires a few tricks. In light winds it's easy, but in moderate to strong winds the wing tends to shoot up, and if you dab the brakes to stop it over-shooting then you tend to get lifted off the ground and unceremoniously dumped back down again. I had a lot of problems with this (as people at the British Open in St Andre might remember!), but Damien de Baenst has shown me a good trick that makes the launch much easier to manage. In short, you don't fully open the wing before pulling it up, you leave the outer quarter of the each wing still partially concertina packed. As you pull the wing up it opens across the span more slowly, absorbing the shoot and making the launch manageable even in strong conditions. 
+
+In the air, it's much better to be 75% up the weight range or higher. I didn't eat enough pies so I've been flying with 4kg of lead in my flightdeck to take my all-up weight to 97kg on the small (official weight range is 90-100kg). It's much, much nicer to fly at 75%+ than at 30%, even in light conditions. The general consensus seems to be that the S size should be flown at 97-102kg, presumably you should similarly be at 75-120% of the weight range for other sizes. This is a wing that is very sensitive to wing loading - a kilo or two one way or the other can make a big difference. It's worth spending time finding the optimal loading for you. 
+
+I still haven't completely eliminated the wing's unwillingness to turn when the inside wing gets lifted in thermals. I apply brake until the inside wing starts to peel back in spin, but the wing takes some time to turn. This problem is alleviated somewhat by using the trimmers asymmetrically (I use 2-4cm on the inside and half that on the outside) and also by flying more heavily loaded. It doesn't worry me now: although the wing is less agile than other wings that I've flown, the turn is predictable and you can apply more brake and weightshift to turn it more tightly if needed, albeit at reduced efficiency. 
+
+The wing is incredibly collapse-resistant but requires constant active flying. In well over one hundred hours of flying, including hours of full-barring through 3-4m/s thermals, I've only had four noticeable collapses, each about 60%. Two were non-events, the others resulted in less than a 45 degree turn with the careful inputs that I gave. However, if you don't pilot the wing then it moves (and would probably collapse) a lot. You need to keep your hands on the controls in rough air. In smooth air it's exceptionally stable and you can push full bar and let go of the brakes. 
+
+Performance-wise, it still blows my mind and I'm still adjusting to the new style of flying that the R10.2 demands. No longer is it climb-and-glide. The wing is so efficient that it becomes all about line choice. The wing gives good feedback as to where the lifty lines are. In a recent personal best cross-country flight, in a 242km 8-hour triangle I climbed less than 17,000m: that's an average glide ratio of over 14:1 at an average speed (including thermalling) of over 30km/h. 
+
+I still haven't got the hang of B-riser flying. My arms haven't grown any longer and it's hard for me to reach the toggles. I just use the Bs for course corrections while accelerated, and occasionally to calm the wing in bumpy air. Most of my active flying has been using the speed bar. Luckily the bar is very light and one leg is sufficient to control pitch: aggressively push more bar on thermal entry to bite in and keep the wing over your head, release quickly if the leading edge starts to soften. 
+
+For fast descents, big ears never worked for me: the wing thrashes around and the sink rate doesn't change much. You can throw it into a good spiral (I think I've hit -12m/s) but the wing naturally wants to roll out of the spiral. To get it to bite in it helps to start either from a small wingover or do something akin to a SAT entry: you need to get the leading edge facing the ground, otherwise the descent rate is poor. Nowadays you can also buy an Ozone Anti-G drag chute, but I haven't tried one yet. 
+
+Regarding longevity, I've taken good care of my wing and it still looks like new. I've seen some R10.2s that look less good. If you're buying second hand then check that the plastics are still flat and not twisted, and that there is no abrasion at the seams on the upper surface, particularly on the nose where the seams are under tension from the plastics. 
+
+Throughout the time that I've been flying this wing, Russ Ogden and Luc Armant have been fantastically responsive to all my questions, and gone out of their way to help me. This is a level of support that I have not had from any other manufacturer, and is very much appreciated. 
+
+One year on, I have no doubt that the Ozone Mantra R10.2 is the best paraglider that I have ever flown. It has stunning performance, is beautifully made, incredibly collapse resistant in the hands of an experienced pilot, and gorgeously beautiful in the air. It is undoubtedly both the first of a new generation and an all-time classic. It is a real privilege to fly one. 
+
