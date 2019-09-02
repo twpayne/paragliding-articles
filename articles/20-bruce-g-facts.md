@@ -1,7 +1,6 @@
 # 20 Bruce G facts
 
-20 BRUCE G FACTS 
-
+```
 20. Bruce G never has a collapse, ever. 
 19. With perfect timing of the brakes, Bruce G can use the helicopter maneuver to gain altitude. 
 18. Bruce G's leading edge is so clean it can be used as an emergency operating table. 
@@ -22,6 +21,7 @@
 3. Bruce G's triangles are never flat. 
 2. Bruce G can break inversions merely by concentrating hard. 
 1. Bruce G could win the Worlds on your glider. 
+```
 
 With apologies to Chuck Norris. 
 
