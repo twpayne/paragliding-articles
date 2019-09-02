@@ -1,5 +1,6 @@
 ## Articles
 
+ - [Life after the Red Bull X-Alps](https://www.redbullxalps.com/news/article/life-after-the-red-bull-x-alps.html) Published by Red Bull
  - [The World's toughest adventure race just got tougher](http://xcmag.com/news/the-worlds-toughest-adventure-race-just-got-tougher/) Published by XCMag
  - [All dig deep in the closing act of the X-Alps](http://xcmag.com/news/red-bull-x-alps-2017-all-dig-deep-in-the-closing-act/) Published by XCMag
  - [What does it take to compete in Red Bull X-Alps?](https://www.redbullxalps.com/news/article/what-does-it-take-to-compete-in-the-red-bull-x-alps.html) Published by Red Bull
@@ -13,6 +14,7 @@
 
 ## Videos
 
+ - [Flying fast for big XC and competition](https://youtu.be/LlEH4B8xElc)
  - [Tom Payne in the trees!](https://www.facebook.com/redbullxalps/videos/102282494505/)
  - [Richard Chambers and Tom Payne in the Red Bull X-Alps 2013](https://www.youtube.com/watch?v=QJNGRMUdnmw)
  - [X-Pyr 2018, Day 5. Tom Payne tells us about Steve Bramfitt's race so far.](https://www.youtube.com/watch?v=jp6cFMeiX3E)
