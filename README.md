@@ -1,4 +1,4 @@
-## Articles
+## Seleted articles
 
 Articles are listed in suggested reading order, not date of publication. Most
 originally appeared on [paraglidingforum.com](https://paraglidingforum.com) or
@@ -11,21 +11,19 @@ Skywings magazine (UK).
  - [How to get a perfect start](articles/how-to-get-a-perfect-start.md)
  - [Five things I learned the hard way about competitions](articles/five-things-i-learned-the-hard-way-about-competitions.md)
  - [How to become World Champion in five easy steps](articles/how-to-become-world-champion-in-five-easy-steps.md)
- - [Newbee take on this whole safety thing](articles/newbee-take-on-this-whole-safety-thing.md)
 
 ### Red Bull X-Alps
 
- - [Life after the Red Bull X-Alps](https://www.redbullxalps.com/news/article/life-after-the-red-bull-x-alps.html) Published by Red Bull
+ - [What does it take to compete in Red Bull X-Alps?](https://www.redbullxalps.com/news/article/what-does-it-take-to-compete-in-the-red-bull-x-alps.html) Published by Red Bull
  - [The World's toughest adventure race just got tougher](http://xcmag.com/news/the-worlds-toughest-adventure-race-just-got-tougher/) Published by XCMag
  - [All dig deep in the closing act of the X-Alps](http://xcmag.com/news/red-bull-x-alps-2017-all-dig-deep-in-the-closing-act/) Published by XCMag
- - [What does it take to compete in Red Bull X-Alps?](https://www.redbullxalps.com/news/article/what-does-it-take-to-compete-in-the-red-bull-x-alps.html) Published by Red Bull
+ - [Life after the Red Bull X-Alps](https://www.redbullxalps.com/news/article/life-after-the-red-bull-x-alps.html) Published by Red Bull
 
 ### Competition organization
 
  - [A task setting philosophy, part 1](articles/a-task-setting-philosophy-part-1.md)
  - [A task setting philosophy, part 2](articles/a-task-setting-philosophy-part-2.md)
  - [Venue checklist](articles/venue-checklist.md)
- - [Competition safety, British practices](articles/competition-safety-british-practices.md)
 
 ### Wing reviews
 
@@ -34,8 +32,10 @@ Skywings magazine (UK).
  - [The Ozone R11, in memoriam](articles/ozone-r11-in-memoriam.md)
  - [What you need to know about single-surface wings](http://twpayne.blogspot.com/2018/12/what-you-need-to-know-about-single.html)
 
-### PWC Superfinal and the Open Class ban
+### Safety, the Open Class ban, and PWC controversy
 
+ - [Newbee take on this whole safety thing](articles/newbee-take-on-this-whole-safety-thing.md)
+ - [Competition safety, British practices](articles/competition-safety-british-practices.md)
  - [Snapshots from a serial class future](articles/snapshots-from-a-serial-class-future.md)
  - [Paragliding World Cup: bring back the tour](articles/paragliding-world-cup-bring-back-the-tour.md)
  - [Why the World Championships thread was locked](articles/why-the-world-championships-thread-was-locked.md)
