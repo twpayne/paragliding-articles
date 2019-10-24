@@ -14,7 +14,7 @@ Skywings magazine (UK).
 
 ### Red Bull X-Alps
 
- - [What does it take to compete in Red Bull X-Alps?](https://www.redbullxalps.com/news/article/what-does-it-take-to-compete-in-the-red-bull-x-alps.html) Published by Red Bull
+ - [What does it take to compete in Red Bull X-Alps?](https://www.redbullxalps.com/news/what-does-it-take-to-compete-in-red-bull-x-alps.html) Published by Red Bull
  - [The World's toughest adventure race just got tougher](http://xcmag.com/news/the-worlds-toughest-adventure-race-just-got-tougher/) Published by XCMag
  - [All dig deep in the closing act of the X-Alps](http://xcmag.com/news/red-bull-x-alps-2017-all-dig-deep-in-the-closing-act/) Published by XCMag
  - [Life after the Red Bull X-Alps](https://www.redbullxalps.com/news/article/life-after-the-red-bull-x-alps.html) Published by Red Bull
